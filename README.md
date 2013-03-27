@@ -8,3 +8,8 @@ facilmente usando o processo por transferencia por Luz Ultra Violeta.
 
 ## Projeto Original de Referencia:
 * http://www.instructables.com/id/PCB-on-a-Box/?ALLSTEPS
+
+## Nossa Lista de componentes
+
+A nossa Lista de componente pode ser vista no [wiki do projeto](https://github.com/Arduino-Minas/PCB-in-a-Box/wiki)
+
